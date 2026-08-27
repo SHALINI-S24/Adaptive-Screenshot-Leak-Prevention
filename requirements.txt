@@ -1,0 +1,11 @@
+keyboard
+Pillow
+easyocr
+opencv-python
+
+later 
+
+keyboard
+Pillow
+easyocr
+opencv-python

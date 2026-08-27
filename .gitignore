@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary screenshots
+data/temp_captures/
+
+# Local database
+data/*.db
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
